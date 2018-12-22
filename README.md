@@ -1,7 +1,7 @@
 # CSC207 project
 This is a project I worked on with 4 other team members for my Software Design class in Fall 2018. It is an android game suite with 3 games, Sliding Tiles, Ultimate Tic Tac Toe, and Obstacle Dodger. Hope you enjoy!
 
-## What to click when running the app: (Getting to play SlidingTiles)
+## What to click when running the app: 
 1. Open the app from the phone's app drawer.
 2. You will be prompted to log in. If you do not have an account and
 you'd like to create an account, enter a Username (at least 3
